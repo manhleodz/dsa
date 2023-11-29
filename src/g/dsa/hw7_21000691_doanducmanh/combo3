@@ -1,0 +1,14 @@
+Em chọn gói combo 3
+
+Tài liệu tham khảo:
+-Range search 2d trees: https://www.baeldung.com/java-range-search
+-AVL tree: https://www.baeldung.com/java-avl-trees
+
+Bài tập 2:
+
+    4 phương thức em đều sử dụng lại trong slide bài giảng. Còn về yêu cầu tìm kiếm trên cây tìm kiếm với tập
+    các số nguyên có kích thước thì em chưa hiểu là phương án 1 insert 10^6, 10^7 node vào tree hay phương án 2 insert node có giá trị
+    lớn hơn 10^6, 10^7.. vào sau đó thực hiện tìm kiếm. Với em thử chạy phương án 1 thì với 10^6 em đợi 3 trận chung kết vẫn chưa ra kết quả ạ.
+
+Bài tập 3 và 4:
+    Em có tìm được tài liệu tham khảo
