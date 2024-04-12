@@ -1,7 +1,5 @@
 package g.gk.detest.bt3;
 
-import g.dsa.hw5_21000691_doanducmanh.ex1.linked.LinkedBinaryTree;
-
 public class Main {
 
     public static void main(String[] args) {
